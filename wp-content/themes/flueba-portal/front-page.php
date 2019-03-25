@@ -47,7 +47,7 @@ function the_post_loop($category_filter, $category_headings = false) {
 ?>
 
 <div class="container clearfix">
-	<a target="_blank" href="mailto:netzwerk@fluechtlingshilfe-babelsberg.de?cc=bastilaurich@web.de@&subject=Infoboard%20Angebot" class="hint">Tipp an uns</a>
+	<a target="_blank" href="mailto:netzwerk@fluechtlingshilfe-babelsberg.de?cc=bastilaurich@web.de&subject=Infoboard%20Angebot" class="hint">Tipp an uns</a>
 
 	<h1 class="title"><span style="color: #095e66">Infoboard Potsdam</span> <span style="color: #0e8a97">Tandems</span></h1>
 
